@@ -18,8 +18,6 @@ The pivot is used to separate the array into three partitions:
 As a result, the elements in left, right and middle can be sorted independently, and no merge 
 is required following the sorting of left and right.
  * 
- * @author wilsonsoto
- * @since 20.09.15
  *
  */
 
