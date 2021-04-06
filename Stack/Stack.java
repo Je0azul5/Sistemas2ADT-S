@@ -1,11 +1,5 @@
 package Stack;
 
-/**
- *
- * @author wilson soto
- * 
- */
-
 public interface Stack {
 	/**
 	 * 
