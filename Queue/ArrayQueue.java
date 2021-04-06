@@ -1,12 +1,6 @@
 
 package Queue;
 
-/**
- * 
- * @author wilson soto
- * @since 14.09.15
- * 
- */
 
 public class ArrayQueue implements Queue {
 
