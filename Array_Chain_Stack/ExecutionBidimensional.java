@@ -2,12 +2,6 @@ package Array_Chain_Stack;
 
 import java.util.Scanner;
 
-/**
- * Example class about bidimensional LinearList
- * 
- * @author wilsonsoto
- * @since 18.09.17
- */
 public class ExecutionBidimensional {
 
 	public static void main(String[] args) {
