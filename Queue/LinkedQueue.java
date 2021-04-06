@@ -2,13 +2,6 @@ package Queue;
 
 import Array_Chain_Stack.ChainNode;
 
-/**
- *
- * @author wilson soto
- * @since 14.09.15
- * 
- */
-
 public class LinkedQueue implements Queue {
 
 	// data members
