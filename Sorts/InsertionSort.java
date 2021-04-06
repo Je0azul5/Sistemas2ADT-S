@@ -10,8 +10,6 @@ We start with an array that contains just the first element, then we insert the 
 one-element array, we get a sorted array of size 2. The insertion of the third element yields a sorted 
 array of size 3, and so on.
  * 
- * @author wilsonsoto
- * @since 20.09.15
  * 
  */
 public class InsertionSort {
