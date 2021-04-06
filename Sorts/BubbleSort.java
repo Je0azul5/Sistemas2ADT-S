@@ -11,8 +11,6 @@ package Sorts;
  * of the bubbling pass, we are assured that the largest element is in the
  * right-most position.
  * 
- * @author wilsonsoto
- * @since 20.09.15
  *
  */
 public class BubbleSort {
