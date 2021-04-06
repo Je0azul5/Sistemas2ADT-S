@@ -13,8 +13,6 @@ package Sorts;
  * <p>
  * 3) merge the two half-lists into the final sorted list Merge(L,R)=(1,2,3,4,5,6,7,8).
  * 
- * @author wilsonsoto
- * @since 20.09.15
  *
  */
 
