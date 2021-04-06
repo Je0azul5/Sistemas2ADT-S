@@ -1,11 +1,5 @@
 package Queue;
 
-/**
- *
- * @author wilson soto
- * 
- */
-
 public interface Queue {
 	/**
 	 * 
